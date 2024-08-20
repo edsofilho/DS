@@ -1,0 +1,9 @@
+C:\Users\ds-etim-2\Documents\Ramon\aula_08\exercicio_04\exercicio_04\bin\Debug\exercicio_04.exe.config
+C:\Users\ds-etim-2\Documents\Ramon\aula_08\exercicio_04\exercicio_04\obj\Debug\exercicio_04.csprojResolveAssemblyReference.cache
+C:\Users\ds-etim-2\Documents\Ramon\aula_08\exercicio_04\exercicio_04\obj\Debug\exercicio_04.Form1.resources
+C:\Users\ds-etim-2\Documents\Ramon\aula_08\exercicio_04\exercicio_04\obj\Debug\exercicio_04.Properties.Resources.resources
+C:\Users\ds-etim-2\Documents\Ramon\aula_08\exercicio_04\exercicio_04\obj\Debug\exercicio_04.csproj.GenerateResource.Cache
+C:\Users\ds-etim-2\Documents\Ramon\aula_08\exercicio_04\exercicio_04\bin\Debug\exercicio_04.exe
+C:\Users\ds-etim-2\Documents\Ramon\aula_08\exercicio_04\exercicio_04\bin\Debug\exercicio_04.pdb
+C:\Users\ds-etim-2\Documents\Ramon\aula_08\exercicio_04\exercicio_04\obj\Debug\exercicio_04.exe
+C:\Users\ds-etim-2\Documents\Ramon\aula_08\exercicio_04\exercicio_04\obj\Debug\exercicio_04.pdb

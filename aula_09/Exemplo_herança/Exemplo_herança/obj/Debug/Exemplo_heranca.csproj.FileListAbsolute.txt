@@ -1,0 +1,9 @@
+C:\Users\ds-etim-2\Documents\Ramon\aula_09\Exemplo_herança\Exemplo_herança\obj\Debug\Exemplo_heranca.csprojResolveAssemblyReference.cache
+C:\Users\ds-etim-2\Documents\Ramon\aula_09\Exemplo_herança\Exemplo_herança\obj\Debug\Exemplo_herança.Properties.Resources.resources
+C:\Users\ds-etim-2\Documents\Ramon\aula_09\Exemplo_herança\Exemplo_herança\obj\Debug\Exemplo_heranca.csproj.GenerateResource.Cache
+C:\Users\ds-etim-2\Documents\Ramon\aula_09\Exemplo_herança\Exemplo_herança\bin\Debug\Exemplo_herança.exe.config
+C:\Users\ds-etim-2\Documents\Ramon\aula_09\Exemplo_herança\Exemplo_herança\bin\Debug\Exemplo_herança.exe
+C:\Users\ds-etim-2\Documents\Ramon\aula_09\Exemplo_herança\Exemplo_herança\bin\Debug\Exemplo_herança.pdb
+C:\Users\ds-etim-2\Documents\Ramon\aula_09\Exemplo_herança\Exemplo_herança\obj\Debug\Exemplo_herança.exe
+C:\Users\ds-etim-2\Documents\Ramon\aula_09\Exemplo_herança\Exemplo_herança\obj\Debug\Exemplo_herança.pdb
+C:\Users\ds-etim-2\Documents\Ramon\aula_09\Exemplo_herança\Exemplo_herança\obj\Debug\Exemplo_herança.Form1.resources

@@ -1,0 +1,9 @@
+C:\Users\ds-etim-2\Documents\Ramon\aula_06\Exercicio_2\Exercicio_2\bin\Debug\Exercicio_2.exe.config
+C:\Users\ds-etim-2\Documents\Ramon\aula_06\Exercicio_2\Exercicio_2\bin\Debug\Exercicio_2.exe
+C:\Users\ds-etim-2\Documents\Ramon\aula_06\Exercicio_2\Exercicio_2\bin\Debug\Exercicio_2.pdb
+C:\Users\ds-etim-2\Documents\Ramon\aula_06\Exercicio_2\Exercicio_2\obj\Debug\Exercicio_2.csprojResolveAssemblyReference.cache
+C:\Users\ds-etim-2\Documents\Ramon\aula_06\Exercicio_2\Exercicio_2\obj\Debug\Exercicio_2.Form1.resources
+C:\Users\ds-etim-2\Documents\Ramon\aula_06\Exercicio_2\Exercicio_2\obj\Debug\Exercicio_2.Properties.Resources.resources
+C:\Users\ds-etim-2\Documents\Ramon\aula_06\Exercicio_2\Exercicio_2\obj\Debug\Exercicio_2.csproj.GenerateResource.Cache
+C:\Users\ds-etim-2\Documents\Ramon\aula_06\Exercicio_2\Exercicio_2\obj\Debug\Exercicio_2.exe
+C:\Users\ds-etim-2\Documents\Ramon\aula_06\Exercicio_2\Exercicio_2\obj\Debug\Exercicio_2.pdb

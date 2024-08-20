@@ -1,0 +1,9 @@
+C:\Users\ds-etim-2\Documents\Ramon\aula_05\exemplo_if\exemplo_if\bin\Debug\exemplo_if.exe.config
+C:\Users\ds-etim-2\Documents\Ramon\aula_05\exemplo_if\exemplo_if\bin\Debug\exemplo_if.exe
+C:\Users\ds-etim-2\Documents\Ramon\aula_05\exemplo_if\exemplo_if\bin\Debug\exemplo_if.pdb
+C:\Users\ds-etim-2\Documents\Ramon\aula_05\exemplo_if\exemplo_if\obj\Debug\exemplo_if.csprojResolveAssemblyReference.cache
+C:\Users\ds-etim-2\Documents\Ramon\aula_05\exemplo_if\exemplo_if\obj\Debug\exemplo_if.Form1.resources
+C:\Users\ds-etim-2\Documents\Ramon\aula_05\exemplo_if\exemplo_if\obj\Debug\exemplo_if.Properties.Resources.resources
+C:\Users\ds-etim-2\Documents\Ramon\aula_05\exemplo_if\exemplo_if\obj\Debug\exemplo_if.csproj.GenerateResource.Cache
+C:\Users\ds-etim-2\Documents\Ramon\aula_05\exemplo_if\exemplo_if\obj\Debug\exemplo_if.exe
+C:\Users\ds-etim-2\Documents\Ramon\aula_05\exemplo_if\exemplo_if\obj\Debug\exemplo_if.pdb

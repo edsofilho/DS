@@ -1,0 +1,9 @@
+C:\Users\ds-etim-2\Documents\Ramon\aula_11\Atividade\Atividade\bin\Debug\Atividade.exe.config
+C:\Users\ds-etim-2\Documents\Ramon\aula_11\Atividade\Atividade\obj\Debug\Atividade.csprojResolveAssemblyReference.cache
+C:\Users\ds-etim-2\Documents\Ramon\aula_11\Atividade\Atividade\obj\Debug\Atividade.Form1.resources
+C:\Users\ds-etim-2\Documents\Ramon\aula_11\Atividade\Atividade\obj\Debug\Atividade.Properties.Resources.resources
+C:\Users\ds-etim-2\Documents\Ramon\aula_11\Atividade\Atividade\obj\Debug\Atividade.csproj.GenerateResource.Cache
+C:\Users\ds-etim-2\Documents\Ramon\aula_11\Atividade\Atividade\bin\Debug\Atividade.exe
+C:\Users\ds-etim-2\Documents\Ramon\aula_11\Atividade\Atividade\bin\Debug\Atividade.pdb
+C:\Users\ds-etim-2\Documents\Ramon\aula_11\Atividade\Atividade\obj\Debug\Atividade.exe
+C:\Users\ds-etim-2\Documents\Ramon\aula_11\Atividade\Atividade\obj\Debug\Atividade.pdb

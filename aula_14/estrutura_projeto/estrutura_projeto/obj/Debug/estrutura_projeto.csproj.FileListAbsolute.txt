@@ -1,0 +1,11 @@
+C:\Users\ds-etim-2\Documents\Ramon\aula_14\estrutura_projeto\estrutura_projeto\bin\Debug\estrutura_projeto.exe.config
+C:\Users\ds-etim-2\Documents\Ramon\aula_14\estrutura_projeto\estrutura_projeto\bin\Debug\estrutura_projeto.exe
+C:\Users\ds-etim-2\Documents\Ramon\aula_14\estrutura_projeto\estrutura_projeto\bin\Debug\estrutura_projeto.pdb
+C:\Users\ds-etim-2\Documents\Ramon\aula_14\estrutura_projeto\estrutura_projeto\obj\Debug\estrutura_projeto.csprojResolveAssemblyReference.cache
+C:\Users\ds-etim-2\Documents\Ramon\aula_14\estrutura_projeto\estrutura_projeto\obj\Debug\estrutura_projeto.frm_splash.resources
+C:\Users\ds-etim-2\Documents\Ramon\aula_14\estrutura_projeto\estrutura_projeto\obj\Debug\estrutura_projeto.Properties.Resources.resources
+C:\Users\ds-etim-2\Documents\Ramon\aula_14\estrutura_projeto\estrutura_projeto\obj\Debug\estrutura_projeto.csproj.GenerateResource.Cache
+C:\Users\ds-etim-2\Documents\Ramon\aula_14\estrutura_projeto\estrutura_projeto\obj\Debug\estrutura_projeto.exe
+C:\Users\ds-etim-2\Documents\Ramon\aula_14\estrutura_projeto\estrutura_projeto\obj\Debug\estrutura_projeto.pdb
+C:\Users\ds-etim-2\Documents\Ramon\aula_14\estrutura_projeto\estrutura_projeto\obj\Debug\estrutura_projeto.frm_login.resources
+C:\Users\ds-etim-2\Documents\Ramon\aula_14\estrutura_projeto\estrutura_projeto\obj\Debug\estrutura_projeto.frm_principal.resources
